@@ -23,3 +23,9 @@ NIST (National Institute of Standards and Technology)
 SANS (SysAdmin, Audit, Network, and Security)
 
 ## Preview
+
+https://github.com/user-attachments/assets/4d7819e4-b858-414b-8e73-ece38460f910
+
+## Acknowledgement
+NIST for their work on SP 800-61.
+SANS Institute for their comprehensive incident response framework.
