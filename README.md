@@ -1,0 +1,25 @@
+# Incident-Response-Guide-Bot
+## Overview
+The Incident Response Guide Engine is a tool designed to provide detailed guidance on incident response best practices based on the NIST (National Institute of Standards and Technology) and SANS (SysAdmin, Audit, Network, and Security) frameworks. Built with Gemma and Groq, this application runs on Streamlit, offering a user-friendly interface for cybersecurity professionals, IT administrators, and incident responders to navigate these critical frameworks.
+
+## Features
+NIST Framework Guidance: Detailed insights into the NIST 800-61 guidelines for incident handling, including preparation, detection and analysis, containment, eradication, and recovery.
+SANS Framework Overview: Comprehensive information on the SANS 6-Step Incident Response Process, covering preparation, identification, containment, eradication, recovery, and lessons learned.
+Interactive Interface: Powered by Streamlit, allowing users to quickly access information with a clear and interactive UI.
+
+## Prerequisites
+Ensure you have the following installed:
+
+Python (>= 3.8)
+Streamlit
+
+Ensure to get the API Keys for:
+
+Groq
+Google-Ai
+
+## Framework Covered
+NIST (National Institute of Standards and Technology)
+SANS (SysAdmin, Audit, Network, and Security)
+
+## Preview
